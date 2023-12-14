@@ -1,0 +1,68 @@
+body{
+  background-color:black;
+  margin: 0;
+}
+.App{
+  text-align: left;
+  padding-left: 5%;
+  background-color: #f7f7f7;
+  width: 420px;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 500px;
+  margin-top: 60px;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-size: 70px;
+}
+.firstName{
+  font-size: 30px;
+  padding-right: 5px;
+}
+#firstName{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+}
+.lastName{
+  font-size: 30px;
+  padding-right: 5px;
+}
+#lastName{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+}
+.email{
+  font-size: 30px;
+  padding-right: 5px;
+}
+#email{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+}
+.password{
+  font-size: 30px;
+  padding-right: 5px;
+}
+#password{
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+}
+.submit{
+  font-size: 25px;
+  margin-top: 20px;
+  background-color:rgba(106, 147, 222, 0.704);
+  border: none;
+  cursor: pointer;
+  margin-left: 30%;
+}
+.error-message{
+  color: red;
+  font-size: 20px;
+}
